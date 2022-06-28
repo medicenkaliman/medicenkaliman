@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ## 🎧 Youtube Playing
 
-[<img src="https://www.youtube.com/watch?v=NBghhjuMNKM&list=PLfiMjLyNWxeabq4TEuVRiB125TbgShi55" alt="Kaliman YT playing" width="350" />]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NBghhjuMNKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- LINKS -->
 
