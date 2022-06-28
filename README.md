@@ -2,6 +2,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/medicenkaliman?color=%231DA1F2&label=medicenkaliman&logo=twitter&style=social)](https://twitter.com/medicenkaliman)
 
+
+
 ### 💻 Web Developer
 
 Here are some ideas to get you started:
@@ -10,6 +12,13 @@ Here are some ideas to get you started:
 - 🌱 Estoy aprendiendo React 
 - 🤔 Necesito ayuda con Python 
 - 📫 Cómo contactarme: joshuedavidbarrios@gmail.com 
+
+---
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/medicenkaliman )  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/joshue-david-barrios/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/medicenkaliman/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/medicenkaliman)  
+
 
 ---
 
@@ -34,11 +43,6 @@ Here are some ideas to get you started:
 <br/>
 
 ---
-
-
-## 🎧 Youtube Playing
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NBghhjuMNKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- LINKS -->
 
