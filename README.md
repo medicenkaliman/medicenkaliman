@@ -6,14 +6,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Estoy trabajando en Ser programador 
+- 🌱 Estoy aprendiendo React 
+- 🤔 Necesito ayuda con Python 
+- 📫 Cómo contactarme: joshuedavidbarrios@gmail.com 
 
 ---
 
@@ -33,6 +29,11 @@ Here are some ideas to get you started:
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+
+
+### 🎧 Spotify Playing
+
+[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="350" />]
 
 <!-- LINKS -->
 
