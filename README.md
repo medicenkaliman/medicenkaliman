@@ -30,16 +30,15 @@ Here are some ideas to get you started:
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 
 <br/>
 
 ---
 
 
-## 🎧 Spotify Playing
+## 🎧 Youtube Playing
 
-[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="350" />]
+[<img src="https://www.youtube.com/watch?v=NBghhjuMNKM&list=PLfiMjLyNWxeabq4TEuVRiB125TbgShi55" alt="Kaliman YT playing" width="350" />]
 
 <!-- LINKS -->
 
