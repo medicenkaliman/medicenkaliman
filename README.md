@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/medicenkaliman?color=%231DA1F2&label=medicenkaliman&logo=twitter&style=social)](https://twitter.com/medicenkaliman)
 
 
-[<img src=https://giphy.com/gifs/ciudad-tecnologia-u7D5EyS2EFlpC]
+[<img src="https://s8.gifyu.com/images/ezgif.com-resize-1.gif">]
 
 Here are some ideas to get you started:
 
