@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/medicenkaliman?color=%231DA1F2&label=medicenkaliman&logo=twitter&style=social)](https://twitter.com/medicenkaliman)
 
 
-[<img src=https://mariateresacc.wordpress.com/2019/11/05/%E2%99%A5-desarrollo-del-pensamiento-computacional-en-los-ninos/][website] 
+[<img src=https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47lsqaj8xi8lo72yeqs8d9tztq9w76hge8iccod1yf&rid=giphy.gif&ct=g]
 
 Here are some ideas to get you started:
 
