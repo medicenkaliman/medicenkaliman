@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi [Kaliman][website] here 👋
 
-**medicenkaliman/medicenkaliman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/medicenkaliman?color=%231DA1F2&label=medicenkaliman&logo=twitter&style=social)](https://twitter.com/medicenkaliman)
 
 Here are some ideas to get you started:
 
@@ -12,4 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!-- LINKS -->
+
+[website]: https://kaliman.com/
+
 
