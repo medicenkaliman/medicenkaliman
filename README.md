@@ -1,4 +1,5 @@
 ### Hi [Kaliman][website] here 👋
+![giphy](https://user-images.githubusercontent.com/103914998/176270262-977f6eb3-fd71-4d26-861c-7947c205ebd8.gif)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/medicenkaliman?color=%231DA1F2&label=medicenkaliman&logo=twitter&style=social)](https://twitter.com/medicenkaliman)
 
